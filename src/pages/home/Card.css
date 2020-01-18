@@ -1,0 +1,9 @@
+.card-text {
+    font-family: 'Kanit';
+    font-weight: 600;
+    color : black;
+}
+.card img.main:hover {
+    opacity: 0.6;
+    transform: scale(1.02);
+}
