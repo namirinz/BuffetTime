@@ -1,0 +1,1 @@
+{"version":3,"sources":["Card.css"],"names":[],"mappings":"AAAA,WACI,iBAAoB,CACpB,eAAgB,CAChB,UACJ,CACA,qBACI,UAAY,CACZ,6BAAsB,CAAtB,qBACJ","file":"main.010d21d6.chunk.css","sourcesContent":[".card-text {\r\n    font-family: 'Kanit';\r\n    font-weight: 600;\r\n    color : black;\r\n}\r\n.card img.main:hover {\r\n    opacity: 0.6;\r\n    transform: scale(1.02);\r\n}"]}

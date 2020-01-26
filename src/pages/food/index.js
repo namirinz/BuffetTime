@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import CardFood from "./CardFood";
+import SliceCard from "./SliceCard";
 
 class Food extends Component {
   constructor(props) {
@@ -9,8 +9,8 @@ class Food extends Component {
   render() {
     return (
       <div style={{ paddingTop: "2rem" }}>
-        <CardFood slide="1" db={this.props.db} />
-        <CardFood slide="2" db={this.props.db} />
+        <SliceCard slide="1" db={this.props.db} />
+        <SliceCard slide="2" db={this.props.db} />
       </div>
     );
   }
