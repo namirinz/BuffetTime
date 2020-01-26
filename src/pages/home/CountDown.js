@@ -2,7 +2,6 @@ import React, { Component } from "react";
 
 class CountDown extends Component {
   state = {
-    test: "hello",
     hours: 1,
     minutes: 30,
     seconds: 0,
